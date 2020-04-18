@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 
 function Welcome(props) {
-    return <h1>Hello,je suis dans master {props.name}</h1>;
+    return <h1>Hello,je suis dans l'autre branche {props.name}</h1>;
   }
   
   function App() {
